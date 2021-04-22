@@ -6,9 +6,8 @@ anomaly detection 논문들의 baseline code 정리.<br>
 
 <br>
 
-# 1. SSIM-AE: Improving Unsupervised Defect Segmentation
-by Applying Structural Similarity To Autoencoders
-- https://arxiv.org/pdf/1807.02011.pdf
+# 1. SSIM-AE: Improving Unsupervised Defect Segmentation by Applying Structural Similarity To Autoencoders
+- [paper](https://arxiv.org/pdf/1807.02011.pdf)
 - ref
   - https://kangjik94.tistory.com/37
   - 
