@@ -3,15 +3,21 @@
 anomaly detection 논문들의 baseline code 정리.<br>
 최대한 pytorch 기반.<br>
 대부분 keras, tensorflow -> pytorch로 가능할까<br>
-
+ref)
+- https://openaccess.thecvf.com/content_CVPR_2019/papers/Bergmann_MVTec_AD_--_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_CVPR_2019_paper.pdf
+- https://arxiv.org/pdf/1911.02357.pdf
+- https://github.com/Kaixhin/Autoencoders
+- https://github.com/AntixK/PyTorch-VAE
 <br>
 
-## 1. SSIM-AE: Improving Unsupervised Defect Segmentation by Applying Structural Similarity To Autoencoders
+## 1. SSIM-AE, L2-AE
 - [paper](https://arxiv.org/pdf/1807.02011.pdf)
 - ref
   - https://kangjik94.tistory.com/37
   - https://github.com/SkyLLine/SSIM_AE-in-pytorch
   - https://github.com/Tokunn/ssim_ae
+  - vanilla ae: https://github.com/lharries/PyTorch-Autoencoders
+  - base ae: https://jaeyung1001.tistory.com/176
 
 ---
 
@@ -27,15 +33,15 @@ anomaly detection 논문들의 baseline code 정리.<br>
 <br>
 
 ## 3. One Class SVM
- - [paper]
+ - [paper](https://arxiv.org/pdf/1802.06360.pdf)
  - ref
-  - https://github.com/MakotoTAKAMATSU013/OneClassSVM-pytorch
+  - https://github.com/sgsuh/oc-nn-pytorch
 
 ---
 
 <br>
 
-## 4. 1-NN
+## 4. 1-NN(1-Nearest Neighbor)
  - [paper]
  - ref
   - https://github.com/Kevsnz/PyTorch-Circle
