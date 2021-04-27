@@ -10,7 +10,7 @@ ref)
 - https://github.com/AntixK/PyTorch-VAE
 <br>
 
-## 1. SSIM-AE, L2-AE
+## 1. SSIM-AE, L2-AEhttps://medium.com/analytics-vidhya/complete-guide-to-build-an-autoencoder-in-pytorch-and-keras-94555dce395d
 - [paper](https://arxiv.org/pdf/1807.02011.pdf)
 - ref
   - https://kangjik94.tistory.com/37
@@ -69,3 +69,5 @@ ref)
   - https://github.com/AntixK/PyTorch-VAE
   - https://github.com/altosaar/variational-autoencoder
   - https://github.com/ethanluoyc/pytorch-vae
+  - https://medium.com/analytics-vidhya/complete-guide-to-build-an-autoencoder-in-pytorch-and-keras-94555dce395d
+  - 
